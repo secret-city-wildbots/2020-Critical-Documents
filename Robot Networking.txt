@@ -1,0 +1,30 @@
+DNS:
+roboRIO: roboRIO-4265-FRC.local
+Limelight: http://limelight.local:5801
+
+Static:
+radio: 10.42.65.1
+Driver Station: 10.42.65.5/255.0.0.0
+roboRIO (untethered): 10.42.65.2/255.255.255.0
+roboRIO (tethered): 172.22.11.2
+Limelight: 10.42.65.11/255.255.255.0 (gateway 10.42.65.1)
+Roborio Online Software: http://roborio-4265-frc.local/#!/SystemConfig
+
+Filezilla SFTP:
+Host: roboRIO-4265-frc.local
+Username: lvuser
+Password:
+Port: 22
+
+Direct FTP:
+ftp://roboRIO-4265-frc.local
+
+File locations on RoboRIO:
+VIs: /home/lvuser/natinst/bin/
+Autonomous Plays: /home/lvuser/autonomous/plays
+Autonomous Paths: /home/lvuser/autonomous/paths
+Calibrations: /home/lvuser/calibrations
+
+Github:
+https://github.com/secret-city-wildbots
+
