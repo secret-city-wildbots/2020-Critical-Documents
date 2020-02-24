@@ -1,0 +1,45 @@
+2/23/2020
+
+good
+increase stability of robot
+learn what we wanted from the intake
+learned need freedom to shoot wherever
+5 ball auto
+driver profiles done
+tested scouting app and it works
+verified with feeder station
+no bugs: self driving or death spin
+
+bad
+need battery beak
+build a wall
+lots of downtime
+make a list of things to bring
+better preparation
+split things up (some at shop)
+why does LL turn off sometimes?
+taking learning from this - what broke
+intake target for defense against us
+get a better camera mount for seeing balls inside robot - communication with manip/driver/coach
+running over balls
+need more driver practice
+
+Things to add
+Gopro to see robot driving
+
+Complaints
+Ethan's sensitivity on joysticks
+manip override to turn on shooter when they see have 5 balls
+intake retract option for manip/automatically when shooter starts
+auto targeting for feeder station
+have a camera connected
+investigate ways to make feeder station alignment easier- flag/tilt camera/etc
+lower drift on rotation - ethan's settings
+add same rotation lock on high speeds as low speeds
+5 ball auto on far side 
+need auto- shoot 3, clear init line, get out of way
+need to shoot from trench (next shooter design and tuning)
+
+
+
+
