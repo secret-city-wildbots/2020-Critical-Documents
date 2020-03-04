@@ -1,0 +1,11 @@
+LED States:
+Robot Disabled - Green Heartbeat
+Field Oriented - Dark Blue
+Robot Oriented - Pink
+Master Caution - Red
+Spinning Up    - Blink Yellow
+Spun Up/unaligned - Solid Yellow
+Firing - Green
+Diverting Power - Off/Black
+Human Player Signal - RAINBOW SPARKLES!!! :)
+Climb - ALSO RAINBOW SPARKLES BECAUSE IT'S COOL!
